@@ -16,7 +16,6 @@
 
 - (void)viewDidLoad {
     //this line is different.
-    //eieieieiieiei
     int i =0;
     i++;
     [super viewDidLoad];
