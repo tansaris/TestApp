@@ -16,8 +16,6 @@
 
 - (void)viewDidLoad {
     //this line is different.
-    int i =0;
-    i++;
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
 }
